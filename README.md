@@ -61,6 +61,13 @@ Studied relationships between:
 - Jupyter Notebook
 
 ---
+## Visualizations
+
+### Item MRP vs Sales
+![MRP vs Sales](images/mrp_vs_sales.png)
+
+### Outlet Type vs Sales
+![Outlet Type vs Sales](images/outlet_type_vs_sales.png)
 
 ##  How to Run
 1. Clone the repository:
