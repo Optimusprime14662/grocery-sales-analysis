@@ -18,6 +18,10 @@ The dataset contains item and outlet details such as:
 - Outlet Type, Outlet Size, Outlet Location Type
 - Target column: **Item_Outlet_Sales** (Total revenue of an item in a particular outlet)
 
+
+### Dataset Source
+BigMart Sales Dataset (Kaggle): https://www.kaggle.com/datasets/brijbhushannanda1979/bigmart-sales-data
+
 ---
 
 ##  Steps Performed
